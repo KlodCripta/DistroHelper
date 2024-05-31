@@ -4,9 +4,11 @@ Distro Helper è un'applicazione che assiste gli utenti nella scelta della distr
 
 ## Caratteristiche
 
-    Questionario interattivo: Distro Helper utilizza un questionario interattivo per raccogliere informazioni sulle preferenze e i requisiti dell'utente.
-    Consigli personalizzati: Basandosi sulle risposte fornite dall'utente, Distro Helper fornisce consigli personalizzati sulla distribuzione Linux più adatta.
-    Informazioni: Distro Helper fornisce informazioni di base su ciascuna distribuzione consigliata.
+Questionario interattivo: Distro Helper utilizza un questionario interattivo per raccogliere informazioni sulle preferenze e i requisiti dell'utente.
+
+Consigli personalizzati: Basandosi sulle risposte fornite dall'utente, Distro Helper fornisce consigli personalizzati sulla distribuzione Linux più adatta.
+
+Informazioni: Distro Helper fornisce informazioni di base su ciascuna distribuzione consigliata.
 
 ## Utilizzo
 
