@@ -17,8 +17,11 @@ Per utilizzare Distro Helper basterà rispondere alle domande nel questionario i
 ## Installazione
 
 Distro Helper è disponibile come AppImage che può essere eseguito su diverse distribuzioni Linux senza necessità di installazione. 
+
 DOWNLOAD: Scaricare l'AppImage da questo repo di GitHub (DistroHelper)
+
 ATTIVARLO: Renderlo "eseguibile" se non lo è già, per farlo basta cliccare con il tasto destro del mouse sul file, poi PROPRIETÀ »»» PERMESSI »»» Segno di spunta su "Eseguibile".
+
 AVVIARLO: Cliccare il tasto destro del mouse sul file e selezionare "AVVIA IN KONSOLE" o "AVVIA NEL TERMINALE" per avviare l'applicazione.
 
 ## Contribuzione
