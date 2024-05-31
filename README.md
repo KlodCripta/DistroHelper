@@ -31,7 +31,8 @@ Se desideri contribuire a Distro Helper, sei il benvenuto! Puoi contribuire con 
 ## Segnalazione di bug
 
 Se riscontri problemi o errori con Distro Helper, ti preghiamo di segnalarli utilizzando il sistema di tracciamento problemi di GitHub nel repository. Fornisci dettagli completi sui passaggi per riprodurre il problema e includi informazioni sul sistema operativo e la versione di Distro Helper utilizzata.
-Licenza
+
+## Licenza
 
 Distro Helper è rilasciato con licenza [MIT]. Consulta il file LICENSE.md per i dettagli sulla licenza.
 
