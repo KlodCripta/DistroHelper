@@ -26,7 +26,7 @@ AVVIARLO: Cliccare il tasto destro del mouse sul file e selezionare "AVVIA IN KO
 
 ## Contribuzione
 
-Se desideri contribuire a Distro Helper, sei il benvenuto! Puoi contribuire con suggerimenti, segnalazioni di bug, richieste di funzionalità o persino con contributi diretti al codice sorgente. Consulta il file CONTRIBUTING.md per ulteriori informazioni su come contribuire.
+Se desideri contribuire a Distro Helper, sei il benvenuto! Puoi contribuire con suggerimenti, segnalazioni di bug, richieste di funzionalità o persino con contributi diretti al codice sorgente.
 
 ## Segnalazione di bug
 
