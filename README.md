@@ -24,6 +24,8 @@ ATTIVARLO: Renderlo "eseguibile" se non lo è già, per farlo basta cliccare con
 
 AVVIARLO: Cliccare il tasto destro del mouse sul file e selezionare "AVVIA IN KONSOLE" o "AVVIA NEL TERMINALE" per avviare l'applicazione.
 
+Puoi anche seguire un piccolo video-tutorial: https://youtu.be/dE8nQlCRt4M
+
 ## Dipendenze
 
 Durante i test, in un solo pc mi è stata richiesta l'installazione manuale della dipendenza, chiamata "python-colorama".
