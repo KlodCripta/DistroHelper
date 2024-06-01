@@ -27,7 +27,9 @@ AVVIARLO: Cliccare il tasto destro del mouse sul file e selezionare "AVVIA IN KO
 ## Dipendenze
 
 Durante i test, in un solo pc mi è stata richiesta l'installazione manuale della dipendenza, chiamata "python-colorama".
+
 Su Archlinux e derivate, è bastato dare il comando "sudo pacman -S python-colorama" ed installare il pacchetto.
+
 Fatto questo procedere come da precedenti istruzioni.
 
 ## Contribuzione
