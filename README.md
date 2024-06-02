@@ -18,7 +18,7 @@ Distro Helper fornisce informazioni di base su ciascuna distribuzione consigliat
 
 Per utilizzare Distro Helper basterà rispondere alle domande nel questionario interattivo. Distro Helper fornirà quindi consigli personalizzati sulla distribuzione Linux più adatta in base alle risposte fornite.
 
-## Attenzione
+## Attenzione:
 
 Attualmente, il programma va in crash dopo aver risposto all'ultima domanda, ma soltanto se lanciato dal menù delle applicazioni (sotto SISTEMA). Sto lavorando per fixare il bug. 
 
