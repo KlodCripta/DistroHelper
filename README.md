@@ -35,8 +35,6 @@ La stringa dovrebbe assomigliare a questa:
 
 sudo pacman -U /home/NomeUtente/Scaricati/DistroHelper-1.0.0-1-any.pkg.tar.zst
 
-ATTENZIONE: in alcuni sistemi, il programma si potrebbe improvvisamente chiudere dopo aver risposto all'ultima domanda. In ogni caso, il file DistroHelper.sh è perfettamente funzionante: eEstraete in una directory il pacchetto scaricato DistroHelper-1.0.0-1-any.pkg.tar.zst, individuate il file DistroHelper.sh, tasto destro su di esso "Esegui in Konsole" o "Esegui in Terminale" o diciture simili in base al vostro ambiente desktop.
-
 ## Contribuzione
 
 Se desideri contribuire a Distro Helper, sei il benvenuto! Puoi contribuire con suggerimenti, segnalazioni di bug, richieste di funzionalità o persino con contributi diretti al codice sorgente.
