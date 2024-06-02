@@ -18,6 +18,8 @@ Distro Helper fornisce informazioni di base su ciascuna distribuzione consigliat
 
 Per utilizzare Distro Helper basterà rispondere alle domande nel questionario interattivo. Distro Helper fornirà quindi consigli personalizzati sulla distribuzione Linux più adatta in base alle risposte fornite.
 
+Attenzione: in alcuni sistemi, il programma si potrebbe improvvisamente chiudere dopo aver risposto all'ultima domanda. In ogni caso, il file DistroHelper.sh è perfettamente funzionante. Estraete in una directory il file scaricato DistroHelper-1.0.0-1-any.pkg.tar.zst, individuate il file DistroHelper.sh, tasto destro su di esso "Esegui in Konsole" o "Esegui in Terminale" o diciture simili in base al vostro ambiente desktop.
+
 ## Installazione
 
 Per installare il pacchetto, esegui semplicemente il seguente comando in una finestra del Terminale/Konsole:
@@ -27,6 +29,8 @@ Arch Linux: sudo pacman -U (inserisci qui il percorso del file scaricato DistroH
 La stringa dovrebbe assomigliare a questa:
 
 sudo pacman -U /home/NomeUtente/Scaricati/DistroHelper-1.0.0-1-any.pkg.tar.zst
+
+ATTENZIONE: in alcuni sistemi, il programma si potrebbe improvvisamente chiudere dopo aver risposto all'ultima domanda. In ogni caso, il file DistroHelper.sh è perfettamente funzionante: eEstraete in una directory il pacchetto scaricato DistroHelper-1.0.0-1-any.pkg.tar.zst, individuate il file DistroHelper.sh, tasto destro su di esso "Esegui in Konsole" o "Esegui in Terminale" o diciture simili in base al vostro ambiente desktop.
 
 ## Contribuzione
 
