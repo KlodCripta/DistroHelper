@@ -18,7 +18,12 @@ Distro Helper fornisce informazioni di base su ciascuna distribuzione consigliat
 
 Per utilizzare Distro Helper basterà rispondere alle domande nel questionario interattivo. Distro Helper fornirà quindi consigli personalizzati sulla distribuzione Linux più adatta in base alle risposte fornite.
 
-Attenzione: in alcuni sistemi, il programma si potrebbe improvvisamente chiudere dopo aver risposto all'ultima domanda. In ogni caso, il file DistroHelper.sh è perfettamente funzionante. Estraete in una directory il file scaricato DistroHelper-1.0.0-1-any.pkg.tar.zst, individuate il file DistroHelper.sh, tasto destro su di esso "Esegui in Konsole" o "Esegui in Terminale" o diciture simili in base al vostro ambiente desktop.
+## Attenzione
+
+Attualmente, il programma va in crash dopo aver risposto all'ultima domanda, ma soltanto se lanciato dal menù delle applicazioni (sotto SISTEMA). Sto lavorando per fixare il bug. 
+
+In ogni caso, il file DistroHelper.sh è perfettamente funzionante!
+## Dopo averlo installato, aprite il terminale e digitate DistroHelper.sh e date invio, il programma si aprirà e funzionerà!!
 
 ## Installazione
 
