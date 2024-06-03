@@ -14,7 +14,7 @@ DistroHelper fornisce, a fine questionario, informazioni di base sulla distribuz
 
 Per utilizzare Distro Helper basterà rispondere alle domande del questionario interattivo digitando "s" per SI oppure "n" per NO. DistroHelper fornirà quindi consigli personalizzati sulla distribuzione Linux più adatta in base alle risposte fornite.
 
-Dopo averlo installato, potete avviare il programma dal menù delle applicazioni » Sistema » DistroHelper oppure potete aprire direttamente il terminale e digitare DistroHelper.sh dando invio. Se il programma non compare nel menù delle applicazioni, riavviate il pc.
+Dopo averlo installato, potete avviare il programma dal menù delle applicazioni » Sistema » DistroHelper (al momento solo Arch Linux e derivate) oppure potete aprire direttamente il terminale e digitare DistroHelper.sh dando invio (Arch Linux e derivate, Debian e derivate tra cui Ubuntu, Mint ecc...). Se il programma non compare nel menù delle applicazioni, riavviate il pc (Arch Linux e derivate).
 
 ## Installazione
 
