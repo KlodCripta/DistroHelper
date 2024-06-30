@@ -24,8 +24,10 @@ ARCH LINUX e derivate:
 
 Scaricate il file DistroHelper-1.0.0-1-any.pkg.tar.zst ed installatelo con: sudo pacman -U (inserisci qui il percorso del file scaricato DistroHelper-1.0.0-1-any.pkg.tar.zst oppure trascina il file DistroHelper-1.0.0-1-any.pkg.tar.zst direttamente dalla cartella in cui si trova fin dentro il Terminale/Konsole)
 
-La stringa dovrebbe assomigliare a questa: sudo pacman -U /home/NomeUtente/Scaricati/DistroHelper-1.0.0-1-any.pkg.tar.zst
-
+La stringa dovrebbe assomigliare a questa: 
+```bash
+sudo pacman -U /home/NomeUtente/Scaricati/DistroHelper-1.0.0-1-any.pkg.tar.zst
+```
 DEBIAN, UBUNTU e altre derivate:
 
 Scaricate il file DistroHelper.deb ed installatelo (io consiglio di usare Gdebi). Terminata l'installazione, sarà sufficiente aprire un terminale e digitare DistroHelper.sh seguito dal tasto Invio.
