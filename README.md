@@ -19,7 +19,7 @@ Dopo averlo installato, potete avviare il programma dal menù delle applicazioni
 ## Installazione
 
 Per installare DistroHelper **in qualunque distribuzione GNU/Linux**, è sufficiente scaricare il file **distrohelper.zip** ed estrarlo. 
-Da terminale, spostarsi nella directory appena scompattata (è sufficiente trascinarla, rilasciarla nel terminale e premere Invio) ed installare il programma con:
+Da terminale, spostarsi nella directory appena scompattata digitando cd percorso/della/directory (puoi anche scrivere cd e trascinare la directory rilasciandola nel terminale per poi premere Invio) ed installare il programma con:
 ```bash
 bash install.sh
 ```
