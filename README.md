@@ -1,7 +1,7 @@
 # DistroHelper 2.0
 
 <p align="center">
-  <img src="DistroHelper2.0.jpg" width="300">
+  <img src="DistroHelper2.0.jpg" width="500">
 </p>
 
 [![AUR](https://img.shields.io/aur/version/distrohelper)](https://aur.archlinux.org/packages/distrohelper)
