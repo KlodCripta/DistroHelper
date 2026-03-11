@@ -1,5 +1,8 @@
 # DistroHelper 2.0
 
+[![AUR](https://img.shields.io/aur/version/distrohelper)](https://aur.archlinux.org/packages/distrohelper)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 DistroHelper 2.0 è uno script in Bash che aiuta l’utente a scegliere la distribuzione GNU/Linux più adatta alle proprie esigenze.
 
 Attraverso un questionario interattivo, il programma analizza il profilo dell’utente e suggerisce le 3 distribuzioni Linux più adatte, mostrando per ciascuna una breve descrizione e il link al sito ufficiale.
