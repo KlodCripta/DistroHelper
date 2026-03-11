@@ -1,5 +1,9 @@
 # DistroHelper 2.0
 
+<p align="center">
+  <img src="DistroHelper2.0.jpg" width="300">
+</p>
+
 [![AUR](https://img.shields.io/aur/version/distrohelper)](https://aur.archlinux.org/packages/distrohelper)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
