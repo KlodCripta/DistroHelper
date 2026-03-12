@@ -22,6 +22,22 @@ Attraverso un questionario interattivo, il programma analizza il profilo dell’
 - Fornisce una breve descrizione per ogni distribuzione consigliata
 - Interfaccia da terminale con barra di avanzamento
 
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/distrohelper_screenshot_1.png" width="48%">
+  <img src="screenshots/distrohelper_screenshot_2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/distrohelper_screenshot_3.png" width="48%">
+  <img src="screenshots/distrohelper_screenshot_4.png" width="48%">
+</p>
+
+---
+
 # Utilizzo (metodo consigliato)
 
 Per garantire la massima trasparenza, il metodo consigliato consiste nel clonare il repository e ispezionare lo script prima dell’esecuzione.
