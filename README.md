@@ -27,13 +27,13 @@ Attraverso un questionario interattivo, il programma analizza il profilo dell’
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/distrohelper_screenshot_1.png" width="48%">
-  <img src="screenshots/distrohelper_screenshot_2.png" width="48%">
+  <img src="screenshots/distrohelper_screenshot_1.png" width="32%">
+  <img src="screenshots/distrohelper_screenshot_2.png" width="32%">
 </p>
 
 <p align="center">
-  <img src="screenshots/distrohelper_screenshot_3.png" width="48%">
-  <img src="screenshots/distrohelper_screenshot_4.png" width="48%">
+  <img src="screenshots/distrohelper_screenshot_3.png" width="32%">
+  <img src="screenshots/distrohelper_screenshot_4.png" width="32%">
 </p>
 
 ---
