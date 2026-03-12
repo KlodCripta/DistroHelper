@@ -1,18 +1,30 @@
-# DistroHelper 2.0
-
 <p align="center">
-  <img src="DistroHelper2.0.jpg" width="500">
+  <img src="DistroHelper2.0.jpg" width="500" alt="DistroHelper poster">
 </p>
 
-[![AUR](https://img.shields.io/aur/version/distrohelper)](https://aur.archlinux.org/packages/distrohelper)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+<h1 align="center">DistroHelper 2.0</h1>
 
-DistroHelper 2.0 è uno script in Bash che aiuta l’utente a scegliere la distribuzione GNU/Linux più adatta alle proprie esigenze.
+<p align="center">
+An interactive Bash tool that helps users choose the GNU/Linux distribution that best fits their needs.
+</p>
 
-Attraverso un questionario interattivo, il programma analizza il profilo dell’utente e suggerisce le 3 distribuzioni Linux più adatte, mostrando per ciascuna una breve descrizione e il link al sito ufficiale.
+<p align="center">
+  <a href="https://aur.archlinux.org/packages/distrohelper">
+    <img src="https://img.shields.io/aur/version/distrohelper?style=for-the-badge" alt="AUR Version">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="MIT License">
+  </a>
+  <img src="https://img.shields.io/badge/Bash-Script-green?style=for-the-badge&logo=gnu-bash" alt="Bash Script">
+</p>
 
-È nato come progetto personale sperimentale scritto in Bash.
+---
 
+DistroHelper 2.0 è uno script Bash che guida l’utente nella scelta della distribuzione GNU/Linux più adatta alle proprie esigenze.
+
+Attraverso un questionario interattivo analizza il profilo dell’utente e suggerisce **tre distribuzioni Linux** compatibili con le sue preferenze, mostrando per ciascuna una breve descrizione e il link al sito ufficiale.
+
+Il progetto è nato come esperimento personale scritto interamente in Bash.
 # Caratteristiche
 
 - Questionario interattivo
